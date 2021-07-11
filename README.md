@@ -4,16 +4,17 @@
 # yours-app
 Your's is a chatting app solely build with Flutter and backed by firebase
 
-##Screenshots :
-![alt text](https://github.com/prashant-kumar18/yours/blob/master/chat.jpg?raw=true)
+# Screenshots :
+![alt text](https://github.com/prashant-kumar18/yours-app/blob/master/chat.png)
 
-#Features
+
+# Features
 
 * Authentication-Sign In and Sign Up
 * Search protal.
 * Send Text,emoji's and pictures.
 
-#Screens:
+# Screens:
 * sign In page
 * Sign Up page
 * Search friend page
